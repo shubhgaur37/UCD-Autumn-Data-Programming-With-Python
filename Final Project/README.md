@@ -52,14 +52,8 @@ This directory contains the final project for the "Data Programming with Python"
 ## Solutions
 The complete solution to this assignment is available as an HTML document. You can view the solution by visiting the following link:
 
-**[View Solution](https://yourgithubusername.github.io/yourrepositoryname/final-project/index.html)**
+**[View Solution](https://shubhgaur37.github.io/UCD-Autumn-Data-Programming-With-Python/Final%20Project/Solution.html)**
 
 ## How to Use This Repository
 - The `Solution.html` file in this directory contains the solutions to the final project.
 - The assignment questions are detailed above and can be further reviewed in the linked solution.
-
-## Contact
-For queries or further discussion on this project, please reach out via GitHub or [insert other contact method].
-
-## License
-[Optional: Include license information here if applicable, e.g., MIT, GPL, etc.]

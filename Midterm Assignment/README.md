@@ -54,7 +54,7 @@ This directory contains the midterm assignment for the "Data Programming with Py
 ## Solutions
 The complete solution to this assignment is available as an HTML document. You can view the solution by visiting the following link:
 
-**[View Solution](https://yourgithubusername.github.io/yourrepositoryname/midterm-assignment/index.html)**
+**[View Solution](https://shubhgaur37.github.io/UCD-Autumn-Data-Programming-With-Python/Midterm%20Assignment/Solution.html)**
 
 ## How to Use This Repository
 - The `Solution.html` file in this directory contains the solutions to the midterm assignment.

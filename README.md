@@ -33,5 +33,5 @@ For detailed questions and solutions, navigate to the [Final Project folder](Fin
 ## Hosted Solutions
 The solutions for both assignments are hosted on GitHub Pages for easy access:
 
-- **[Midterm Assignment Solution](https://yourgithubusername.github.io/UCD-Autumn-Data-Programming-With-Python/Midterm%20Assignment/index.html)**
-- **[Final Project Solution](https://yourgithubusername.github.io/UCD-Autumn-Data-Programming-With-Python/Final%20Project/index.html)**
+- **[Midterm Assignment Solution](https://yourgithubusername.github.io/yourrepositoryname/Midterm%20Assignment/Solution.html)**
+- **[Final Project Solution](https://yourgithubusername.github.io/yourrepositoryname/Final%20Project/Solution.html)**

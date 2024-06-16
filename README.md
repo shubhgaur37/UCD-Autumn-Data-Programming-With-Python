@@ -2,11 +2,6 @@
 
 Welcome to my GitHub repository for the "Data Programming with Python" module, taken during the Autumn trimester. This repository contains all my coursework, including the midterm assignment and final project.
 
-## Table of Contents
-- [Midterm Assignment](#midterm-assignment)
-- [Final Project](#final-project)
-- [Hosted Solutions](#hosted-solutions)
-
 ## Midterm Assignment
 The midterm assignment focuses on Exploratory Data Analysis (EDA) of Irish weather data. It includes tasks such as data loading, handling missing values, analyzing extreme weather events, and creating various numerical and graphical summaries.
 
@@ -33,5 +28,5 @@ For detailed questions and solutions, navigate to the [Final Project folder](Fin
 ## Hosted Solutions
 The solutions for both assignments are hosted on GitHub Pages for easy access:
 
-- **[Midterm Assignment Solution](https://yourgithubusername.github.io/yourrepositoryname/Midterm%20Assignment/Solution.html)**
-- **[Final Project Solution](https://yourgithubusername.github.io/yourrepositoryname/Final%20Project/Solution.html)**
+- **[Midterm Assignment Solution](https://shubhgaur37.github.io/UCD-Autumn-Data-Programming-With-Python/Midterm%20Assignment/Solution.html)**
+- **[Final Project Solution](https://shubhgaur37.github.io/UCD-Autumn-Data-Programming-With-Python/Final%20Project/Solution.html)**

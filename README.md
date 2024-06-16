@@ -1,6 +1,6 @@
 # UCD Autumn Data Programming With Python
 
-Welcome to my GitHub repository for the "Data Programming with Python" module, taken during the Autumn trimester. This repository contains all my coursework, including the midterm assignment and final project.
+Welcome to my GitHub repository for the "Data Programming with Python" module, taken during the Autumn trimester. This repository contains my coursework, including the midterm assignment and final project.
 
 You can view the hosted solutions and detailed descriptions of the assignments [here](https://shubhgaur37.github.io/UCD-Autumn-Data-Programming-With-Python/).
 

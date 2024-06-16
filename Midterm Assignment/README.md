@@ -6,7 +6,6 @@ This directory contains the midterm assignment for the "Data Programming with Py
 ## Assignment Details
 - **Objective**: Apply Python programming skills to perform EDA on historic weather data.
 - **Data Source**: Met Éireann, Ireland's National Meteorological Service.
-- **Due Date**: November 5, 2023
 
 ## Assignment Questions
 
@@ -58,5 +57,5 @@ The complete solution to this assignment is available as an HTML document. You c
 **[View Solution](https://yourgithubusername.github.io/yourrepositoryname/midterm-assignment/index.html)**
 
 ## How to Use This Repository
-- The `index.html` file in this directory contains the solutions to the midterm assignment.
+- The `Solution.html` file in this directory contains the solutions to the midterm assignment.
 - The assignment questions are detailed above and can be further reviewed in the linked solution.
